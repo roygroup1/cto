@@ -5,7 +5,7 @@ include(DIR_INCLUDES."header.php");
 ?>	
 <!-- heading start --> 
 <tr>
-      <td align="left"  valign="top">&nbsp;</td>
+      <td align="left"  valign="top">&nbsp;My Testing </td>
       <td align="left" valign="top"><table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
 	       <tr>
         <td align="left" valign="top" class="header-nav"><a href="index.html">Home</a>  /  <a href="#" class="active"><?=$PageTitle;?></a></td>
